@@ -45,3 +45,19 @@ export const homeObjThree = {
   alt: 'Image',
   start: ''
 };
+
+export const homeObjFour = {
+  primary: false,
+  lightBg: true,
+  imgStart: 'start',
+  lightTopLine: false,
+  lightTextDesc: false,
+  buttonLabel: 'Get Started',
+  description: 'We help business owners increase their revenue. Our team of unique specialists can help you achieve your buisness goals.',
+  headline: 'Lead Generation Specialist for Online Businesses',
+  lightText: false,
+  topLine: 'Marketing Agency',
+  img: require('../../images/svg-4.svg'),
+  alt: 'Image',
+  start: true
+};
