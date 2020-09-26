@@ -9,7 +9,7 @@ import {
   Heading,
   Subtitle,
   ImgWrapper,
-  Img
+  Img,
 } from "./InfoSection.elements";
 import { Button, Container } from "../../globalStyles";
 
@@ -26,7 +26,7 @@ const InfoSection = ({
   topLine,
   start,
   img,
-  alt
+  alt,
 }) => {
   return (
     <>
